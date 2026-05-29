@@ -1,2 +1,3 @@
 streamlit
-# 你用到什么库就写什么，没有就只写 streamlit
+python-dotenv
+openai
